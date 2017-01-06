@@ -7,7 +7,7 @@ You will need to create credentials at console.developers.google.com and insert 
 1. Click on credentials
     <img src="./img/readme/step1.png" />
 2. Click "Create credentials
-    <img src="./img/readme/step1.png" />
+    <img src="./img/readme/step2.png" />
 3. Click OAuth client ID
 4. Fill out the information. You can use localhost:{your port here} until your site is hosted
     <img src="./img/readme/step3" />
